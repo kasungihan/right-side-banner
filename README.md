@@ -16,7 +16,7 @@ if you can use this plugin for ads
 ```
 
 
-2\.  Create links
+2\.  Create 
 
 ```html
 $.rzButton();
@@ -25,7 +25,7 @@ $.rzButton();
 
 3\. Enjoy!
 
-## Option
+## Options
 
 ```js
 $.rzButton({
