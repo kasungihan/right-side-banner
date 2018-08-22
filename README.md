@@ -1,4 +1,4 @@
-# topsidebanner
+# Top Right Side Banner
 if you can use this plugin for ads
 
 
